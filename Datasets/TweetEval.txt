@@ -1,1 +1,0 @@
-Here we place some of TweetEvals repositories this project will use.
